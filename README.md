@@ -1,1 +1,1 @@
-# hmis-event-service
+# event-service
